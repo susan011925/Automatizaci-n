@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="En esta suite de pruebas" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-18T00:01:43" hostname="CHMEPPF0I6LTM" time="48.717">
+  <properties/>
+  <testcase name="Crear un nuevo evento en Google Calendar" classname="En esta suite de pruebas" time="48.717"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[feb 17, 2019 7:01:44 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017) on port 44725
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+feb 17, 2019 7:01:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Crear un nuevo evento en Google Calendar
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
